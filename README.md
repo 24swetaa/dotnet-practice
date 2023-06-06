@@ -12,4 +12,8 @@
     - `dotnet new webapi -n webapp`
     - `cd webapp`
     - `dotnet run`
+##### For creating a sidecar container to run dotnet-monitor for the dotnet app
+* ##### Important links:
+    - https://github.com/dotnet/dotnet-monitor/blob/main/documentation/kubernetes.md
+    - https://learn.microsoft.com/en-us/shows/on-net/diagnosing-net-6-issues-from-sidecar-containers-using-dotnet-monitor
 
